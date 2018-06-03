@@ -1,0 +1,8 @@
+title=Google STT Roku Demo
+major_version=1
+minor_version=0
+build_version=0
+splash_min_time=0
+splash_rsg_optimization=1
+ui_resolutions=fhd
+uri_resolution_autosub=$$RES$$,sd,hd,fhd
