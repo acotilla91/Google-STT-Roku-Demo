@@ -39,3 +39,8 @@ function onKeyEvent(key as String, press as Boolean) as Boolean
   end if
   return true
 end function
+
+function speechRecognizerDidReceiveTranscript(transcript as String)
+  m.label.text = transcript
+  m.infoLb.text = "Hold the OK button to start dictation, release it once you're done."
+end function

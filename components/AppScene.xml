@@ -1,5 +1,7 @@
 <component name="AppScene" extends="Scene">
   <interface>
+    <!-- Speech Recognizer callbacks -->
+    <function name="speechRecognizerDidReceiveTranscript"/>
   </interface>
   <script type="text/brightscript" uri="pkg:/components/AppScene.brs"/>
 </component>
