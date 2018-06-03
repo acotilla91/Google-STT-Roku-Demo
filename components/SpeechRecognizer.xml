@@ -1,0 +1,12 @@
+<component name="SpeechRecognizer" extends="Task" >
+
+  <script type="text/brightscript" uri="pkg:/components/SpeechRecognizer.brs"/>
+
+  <interface>
+    <!-- Callback listener -->
+    <field id="delegate" type="node"/>
+
+    <function name="startListening"/>
+  </interface>
+
+</component>
