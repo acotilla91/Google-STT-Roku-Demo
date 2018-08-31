@@ -1,7 +1,7 @@
 
 # Speech Recognition Demo on Roku using Google STT API
 
-This demo app showcases how to implement Speech Recognition on Roku OS 7.6 and above using Google Cloud Speech-to-Text API. Follow this step-by-step [tutorial](http://) for more details.
+This demo app showcases how to implement Speech Recognition on Roku OS 7.6 and above using Google Cloud Speech-to-Text API. Follow this step-by-step [tutorial](https://medium.com/float-left-insights/speech-recognition-on-roku-using-google-cloud-speech-to-text-api-ac79bb944986) for more details.
 
 ## How to enable the STT API
 As with any Google Cloud API, the API has to be enabled on a project within the Google Cloud Console and all the API calls will be associated to that project.
